@@ -1,2 +1,2 @@
 # ML-Project-
-This project can we used to predict employee salary tier
+This project can be used to predict employee salary tier
